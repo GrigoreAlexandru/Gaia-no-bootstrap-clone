@@ -432,6 +432,10 @@ footer{
 	font-weight: normal;
 	    line-height: 20px;
 	text-decoration: none;
+	transition: .2s;
+}
+.footer-text a:hover{
+	opacity: 1;
 }
 .news hr{
 	border-color: #444444;
@@ -445,6 +449,10 @@ footer{
 	line-height: 1.6rem;
 	text-transform: uppercase;
 	font-weight: bold;
+	transition: .2s;
+}
+.follow a:hover{
+	color: #777;
 }
 .credits{
 	font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
