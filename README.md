@@ -3,4 +3,4 @@
 [live here](https://grigorealexandru.github.io/Gaia-no-bootstrap-clone/)
 
 
-Gaia bootstrap visual copy , css only , not responsive.
+Gaia bootstrap visual copy , css only , not responsive only on x1024 resolution
